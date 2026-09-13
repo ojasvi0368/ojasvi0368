@@ -1,86 +1,62 @@
-# 👋 Hi, I'm Ojasvi Yadav
+# 👋 Hey, I'm Ojasvi Yadav!
 
-🎓 **B.Tech CSE Student** at ABES Engineering College, Ghaziabad, India  
-💻 Passionate about Programming, Problem Solving, Artificial Intelligence, and Cloud Computing  
-🚀 Aspiring Software Engineer who loves learning new technologies and building projects
+🎓 B.Tech CSE Student at **ABES Engineering College, Ghaziabad**
 
----
+💻 Aspiring Software Engineer | Problem Solver | Developer
 
-## 🌟 About Me
-
-- 🌱 Currently learning **C++, Python, Data Structures & Algorithms**
-- 💡 Exploring **Artificial Intelligence, Cloud Computing, and Software Development**
-- 🎯 Focused on improving problem-solving and development skills
-- 📚 Believer in continuous learning and growth
+I enjoy solving coding problems, building web projects, participating in hackathons, and exploring new technologies.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I Do
 
-### Languages
-- C++
-- Python
-- HTML
-- CSS
-
-### Tools & Platforms
-- Git
-- GitHub
-- VS Code
+* 💻 Practice **C++ & DSA**
+* 🌐 Build websites and web applications
+* 🏆 Participate in coding contests and hackathons
+* ☁️ Explore **Cloud Computing**
+* 📚 Continuously improve my development skills
 
 ---
 
-## 📈 Coding Profiles
+## 🛠️ Skills
 
-- 🔹 LeetCode: https://leetcode.com/u/ojasviyadav/
-- 🔹 CodeChef: https://www.codechef.com/users/ojasvi0368
-- 🔹 HackerRank: https://www.hackerrank.com/profile/ojasviyadav2308
+**Languages & Technologies**
 
----
+`C++` `HTML` `CSS` `JavaScript` `React`
 
-## 🌐 Connect With Me
+**Tools**
 
-- GitHub: https://github.com/ojasvi0368
-- LinkedIn: https://www.linkedin.com/in/ojasvi-yadav-496936395/
+`Git` `GitHub` `VS Code`
 
 ---
 
-## 🎯 Current Goals
+## 🏆 Achievements
 
-- Solve 200+ DSA problems
-- Build impactful projects
-- Strengthen programming fundamentals
-- Learn AI & Machine Learning
-- Explore Cloud Technologies
-- Contribute to Open Source
-
----
-
-## 📚 Currently Learning
-
-C++ → DSA → Python → AI/ML → Cloud Computing
+* 🥇 Completed **500 Difficulty Rating Practice Problems** on CodeChef
+* 🔤 Completed the **Practice Strings** milestone on CodeChef
+* 💡 Earned a **HackerRank Problem Solving Certificate**
+* 🧩 Earned a **CodeChef Problem Solving Certificate**
+* 🚀 Participated in multiple hackathons
+* 🌐 Built web projects during hackathons
 
 ---
 
-## 💭 Quote
+## 💻 Coding Profiles
 
-> "Success is the sum of small efforts repeated day in and day out."
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge\&logo=leetcode)](https://leetcode.com/u/ojasviyadav/)
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge\&logo=codechef)](https://www.codechef.com/users/ojasvi0368)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge\&logo=hackerrank)](https://www.hackerrank.com/profile/ojasviyadav2308)
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+## 🌐 Find Me
 
-<!--
-**ojasvi0368/ojasvi0368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub](https://img.shields.io/badge/GitHub-ojasvi0368-black?style=for-the-badge\&logo=github)](https://github.com/ojasvi0368)
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ojasvi%20Yadav-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/ojasvi-yadav-496936395/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ✨ Keep Learning. Keep Building. Keep Growing.
